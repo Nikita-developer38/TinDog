@@ -15,7 +15,7 @@
 
 ## Demo
 
-Check out the live demo of the TinDog website [here](#).
+Check out the live demo of the TinDog website [https://tin-dog-website-clone.netlify.app/](https://tin-dog-website-clone.netlify.app/).
 
 ## Features
 
@@ -54,4 +54,4 @@ You can use this template as a base for your projects, modify the content, and a
 
 
 
-![TinDog Screenshot](#) 
+![TinDog Screenshot]() 
