@@ -10,8 +10,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [License](#license)
-- [Contact](#contact)
 
 ## Demo
 
