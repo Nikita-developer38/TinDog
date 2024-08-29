@@ -54,4 +54,4 @@ You can use this template as a base for your projects, modify the content, and a
 
 
 
-![TinDog Screenshot]() 
+![TinDog Screenshot](tindog.png) 
